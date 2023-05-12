@@ -1,0 +1,31 @@
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 15px;
+    color: #121212;
+    line-height: 1.5;
+}
+
+.main-title {
+    font-size: 30px;
+    color: #e62121;
+    text-transform: uppercase;
+}
+
+.title {
+    font-size: 24px;
+    color: #2154e6;
+}
+
+.small-title {
+    font-size: 21px;
+    color: #71aa1f;
+    text-decoration: underline;
+}
+
+.list {
+    font-weight: bold;
+}
+
+.last-p {
+    font-style: italic;
+}
